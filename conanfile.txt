@@ -6,7 +6,7 @@ boost/1.68.0@conan/stable
 cmake
 
 [options]
-restinio:boost_asio=static
+restinio:boost_libs=static
 *:shared=False
 
 [imports]
