@@ -1,6 +1,5 @@
 [requires]
-restinio/0.4.8.3@stiffstream/testing
-boost/1.68.0@conan/stable
+restinio/0.4.9@stiffstream/testing
 
 [generators]
 cmake
